@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://totalwarshogun2completeedition.online/sitemap.xml
